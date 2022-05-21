@@ -197,5 +197,4 @@ Remove files from the Git But keep the files in your local repository:
   
 1. Working directory comparison to staging area: git diff
 2. Staging area to last commit comparison: git diff --staged
-3. Checking status: git status
 
